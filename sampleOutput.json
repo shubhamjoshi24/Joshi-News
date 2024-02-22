@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": null
+            },
+            "author": null,
+            "title": null,
+            "description": null,
+            "url": null,
+            "urlToImage": null,
+            "publishedAt": null,
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Lenovo Legion Go Hands-on: Windows-powered Nintendo Switch?! - Android Authority",
+            "description": "Is this the PC version of the Nintendo Switch we've always wanted?...Read our full hands-on impression: https://www.androidauthority.com/lenovo-legion-go-han...",
+            "url": "https://www.youtube.com/watch?v=gjMC0tR8i88",
+            "urlToImage": "https://i.ytimg.com/vi/gjMC0tR8i88/maxresdefault.jpg",
+            "publishedAt": "2023-09-01T04:00:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salt Lake Tribune"
+            },
+            "author": null,
+            "title": "Utah Utes vs. Florida Gators: Live college football updates - Salt Lake Tribune",
+            "description": "Live updates from Rice-Eccles stadium. The No. 14 Utes host the Gators. Kickoff is set for 6 p.m. on ESPN.",
+            "url": "https://www.sltrib.com/sports/utah-utes/2023/08/31/utes-stars-cam-rising-brant-kuithe/",
+            "urlToImage": "https://www.sltrib.com/resizer/Zgl7tKNsoswljP1YFwZXQsQ1fZY=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/sltrib/YRYWKWENSRGONHP7CBVLX62MTY.jpg",
+            "publishedAt": "2023-09-01T03:22:30Z",
+            "content": "Bryson Barnes was already something of a Utah football folk hero.\r\nIf he keeps this up, hell be bigger than that.\r\nThe former walk-on, starting in place of senior Cam Rising, didnt bother playing it … [+4927 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Gabrielle Chung",
+            "title": "Miley Cyrus Says This Moment With Taylor Swift and Demi Lovato Shows She's Bisexual - E! NEWS",
+            "description": "Miley Cyrus addressed the viral photo of herself wearing sweats next to a glammed out Taylor Swift, Demi Lovato and Hannah Montana costar Emily Osment: \"If you guys didn’t know I was bisexual.\"",
+            "url": "https://www.eonline.com/news/1384622/miley-cyrus-says-this-moment-with-taylor-swift-and-demi-lovato-shows-shes-bisexual",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023717/rs_1200x1200-230817113823-1200-miley-cyrus-fashion-los-angeles-awards-cjh-042323.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-09-01T03:00:00Z",
+            "content": "10. After the series ended in 2011there was also the 2009 big-screen release Hannah Montana: The Movie in 2009Miley admitted she struggled to find herself.\r\n\"Some of my audience was so attached to a … [+1755 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Watch: Video shows airplane burning from drone strike during attack on Russia - CNN",
+            "description": "Russia has seen the biggest drone assault on its territory since it launched its war on Ukraine. Six Russian regions including Moscow came under attack early Wednesday, while in the city of Pskov, near the Estonian border, several transport planes were report…",
+            "url": "https://www.cnn.com/videos/world/2023/09/01/russia-ukraine-drone-attack-chance-dnt-ac360-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230831211100-russia-drone-attack-vpx-01.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-01T02:58:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": null
+            },
+            "author": null,
+            "title": null,
+            "description": null,
+            "url": null,
+            "urlToImage": null,
+            "publishedAt": null,
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Hawaii wildfires: Oprah and The Rock pledge direct payments to victims in Maui - BBC",
+            "description": "The People's Fund of Maui aims to make monthly payments of $1,200 (£950) to thousands of wildfire victims.",
+            "url": "https://www.bbc.com/news/world-us-canada-66679378",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/85D9/production/_130956243_decomp_oprah-dwayne-johnson-peoples-fund-maui-083123-951a0e991d364f65bdb883e50dc99c41.jpg1693507501847.jpg",
+            "publishedAt": "2023-09-01T02:04:13Z",
+            "content": "Dwyane \"The Rock\" Johnson and Oprah Winfrey have created a fund to make direct payments to people in Hawaii who have been affected by Maui wildfires. \r\nThe People's Fund of Maui aims to make monthly … [+1830 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "nj.com"
+            },
+            "author": "Susan K. Livio | NJ Advance Media for NJ.com",
+            "title": "As COVID-19 cases slowly rise again, 1 in 4 nursing homes in N.J. report an outbreak - NJ.com",
+            "description": "There are 135 outbreaks across the 580 long-term care facilities in New Jersey",
+            "url": "https://www.nj.com/coronavirus/2023/08/as-covid-19-cases-slowly-rise-again-1-in-4-nursing-homes-in-nj-report-an-outbreak.html",
+            "urlToImage": "https://www.nj.com/resizer/zCnMaM1lOG3n_BVBbRTqtQ6QChg=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WYBEMKAWEJB2BLCPKMVET4PGCQ.jpg",
+            "publishedAt": "2023-09-01T01:38:00Z",
+            "content": "As COVID-19 cases slowly rise in New Jersey and across the country, about one in four nursing homes and assisted living facilities in the state have reported an outbreak in the past week, according t… [+3934 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Angie Orellana Hernandez",
+            "title": "Utah Influencer Ruby Franke Arrested on Child Abuse Charges - E! NEWS",
+            "description": "Utah Mom Ruby Franke, who previously ran a family YouTube channel, has been arrested on charges of aggravated child abuse after an \"emaciated\" child was located by police.",
+            "url": "https://www.eonline.com/news/1384611/utah-influencer-ruby-franke-arrested-on-child-abuse-charges",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023731/cr_1200x1200-230831175221-Screen_Shot_2023-08-31_at_5.49.54_PM.png?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-09-01T00:35:00Z",
+            "content": "Content warning: This story discusses child abuse.\r\nRuby Franke is facing legal trouble for alleged child abuse.\r\nThe mother of six, who ran the now-deleted 8 Passengers YouTube channel, was detained… [+941 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "College football Week 1 top plays: Matt Rhule's Huskers lead in 3rd - FOX Sports",
+            "description": "Matt Rhule makes his Nebraska coaching debut as his Cornhuskers take on Minnesota on FOX. Here are the top plays.",
+            "url": "https://www.foxsports.com/stories/college-football/college-football-week-1-top-plays-nebraska-at-minnesota",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/08/1408/814/08.30.23_Top-Plays_NEB-MIN_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-31T23:39:05Z",
+            "content": "A year ago, Matt Rhule found himself suddenly out of work after being dismissed by the Carolina Panthers.\r\nNow, he's back in the college game, tasked with rebuilding a Nebraska program that's hungry … [+4660 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "49ers Webzone"
+            },
+            "author": "Rohan Chakravarthi",
+            "title": "Orlovsky: Trey Lance more to blame than Kyle Shanahan for struggles with 49ers - 49ers Webzone",
+            "description": "The San Francisco 49ers ended a short-lived era when they traded former No. 3 overall pick Trey Lance to the Dallas Cowboys for a 2024 fourth-round pick, moving forward with Brock Purdy as their start",
+            "url": "https://www.49erswebzone.com/articles/171419-orlovsky-trey-lance-more-blame-shanahan-struggles-49ers/",
+            "urlToImage": "https://static.49erswebzone.com/v/UtjysC/content/media/article/7a61d76ccda5fabf461ba000b2b442ec.jpg?social=true",
+            "publishedAt": "2023-08-31T23:06:35Z",
+            "content": "The San Francisco 49ers ended a short-lived era when they traded former No. 3 overall pick Trey Lance to the Dallas Cowboys for a 2024 fourth-round pick, moving forward with Brock Purdy as their star… [+4886 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
+            },
+            "author": null,
+            "title": "Residents in Florida's Big Bend begin recovery after Idalia - PBS NewsHour",
+            "description": "Tropical Storm Idalia is heading back out to sea, but in its wake, Florida, Georgia and the Carolinas are busy cleaning up. As a Category 3 hurricane, Idalia caused major damage in Florida's Big Bend region, but overall there was less damage throughout the So…",
+            "url": "https://www.pbs.org/newshour/show/residents-in-floridas-big-bend-region-begin-recovery-after-hurricane-idalia",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/08/HurricaneIdalia-1024x684.jpg",
+            "publishedAt": "2023-08-31T22:55:34Z",
+            "content": "William Brangham:\r\nOn a large, statewide level, yes, that is what they feel.\r\nI mean, if you think back to a year ago, Hurricane Ian hit this state. It was a bigger storm and it hit in a much denser … [+1086 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Houston Chronicle"
+            },
+            "author": "Octavia Johnson",
+            "title": "Houston hospital reports Texas' first case of COVID, BA.2.86 variant - Houston Chronicle ",
+            "description": "The new COVID-19 variant has been found in Texas making it the fourth case identified in the nation, a medical professional announced Thursday afternoon.",
+            "url": "https://www.houstonchronicle.com/news/houston-texas/trending/article/fourth-new-covid-variant-case-found-in-houston-18340782.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/30/41/66/23207297/3/rawImage.jpg",
+            "publishedAt": "2023-08-31T22:31:32Z",
+            "content": "The new COVID-19 variant has been found in Texas making it the fourth case identified in the nation, a medical professional announced Thursday afternoon.Dr. Scott Wesley Long at the Houston Methodist… [+1586 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jason Morris",
+            "title": "Fulton County judge gives green light for Trump Georgia 2020 election case to be televised - CNN",
+            "description": "The ruling does not extend to federal court, where no cameras or recording equipment are allowed",
+            "url": "https://www.cnn.com/2023/08/31/politics/fulton-county-trump-trial-tv-cameras/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230728105508-fulton-county-courthouse-072823-screengrab.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-31T22:01:00Z",
+            "content": "The Fulton County, Georgia, judge overseeing the sprawling 2020 election interference racketeering case against former President Donald Trump and 18 co-defendants says that all proceedings in his cou… [+2030 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Herb Scribner",
+            "title": "Taylor Swift announces Eras Tour movie with AMC - The Washington Post",
+            "description": "Taylor Swift announced that a new movie about her Eras Tour will hit theaters in October, long before the tour actually ends.",
+            "url": "https://www.washingtonpost.com/lifestyle/2023/08/31/taylor-swift-eras-tour-amc-tickets/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PBYEXGVOUSY47X3JCTU7WQUMNM.jpg&w=1440",
+            "publishedAt": "2023-08-31T21:58:00Z",
+            "content": "Comment on this story\r\nComment\r\nTaylor Swift is bringing her Eras Tour to movie theaters this fall, hoping fans will pay for a discount version of the dazzling concerts that have sold out venues arou… [+2358 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "FATIMA HUSSEIN",
+            "title": "US hits North Korean and Russian accused of supporting North Korea's ballistics missile program - Yahoo News",
+            "description": "In response to North Korea's failed launch of a spy satellite last week, the U.S. on Thursday imposed sanctions on two men and a Moscow-registered firm...",
+            "url": "https://news.yahoo.com/us-hits-north-korean-russian-212215744.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iheCjXc0thdQ5.To_Ivm2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/75d89071dc34dd996f500e41c60e00fa",
+            "publishedAt": "2023-08-31T21:22:15Z",
+            "content": "WASHINGTON (AP) In response to North Korea's failed launch of a spy satellite last week, the U.S. on Thursday imposed sanctions on two men and a Moscow-registered firm accused of supporting North Kor… [+2067 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Alexander Mallin",
+            "title": "Former Proud Boys leaders Joseph Biggs, Zachary Rehl sentenced for Jan. 6 sedition - ABC News",
+            "description": "Biggs' sentence is the second longest in connection with the Capitol attack.",
+            "url": "https://abcnews.go.com/Politics/proud-boy-leaders-joe-biggs-zachary-rehl-sentenced/story?id=102832655",
+            "urlToImage": "https://s.abcnews.com/images/Politics/proud-boys-4-ap-bb-230831_1693492713753_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-08-31T21:11:15Z",
+            "content": "Two former Proud Boys leaders who had been convicted of seditious conspiracy for their actions during the Jan. 6 assault on the U.S. Capitol were sentenced on Thursday, with the judge handing down on… [+6546 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZDNet"
+            },
+            "author": "Jason Perlow",
+            "title": "The iPhone 15's USB-C upgrade is more game-changing than you think. Here's why - ZDNet",
+            "description": "The iPhone's upgrade to the industry-standard charging and data connector has serious implications for the cable accessory industry.",
+            "url": "https://www.zdnet.com/article/the-iphone-15s-usb-c-upgrade-is-more-game-changing-than-you-think-heres-why/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/d7804968ccab1852e27fdf3b2d4e88b2216d3b31/2022/09/08/606c00c6-45f1-4b13-a041-b466119479a7/5-dsc08937.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-08-31T20:37:36Z",
+            "content": "June Wan/ZDNET\r\nThis time last year, I was unenthusiastic about the release of the iPhone 14 Pro. Despite impressive improvements with its 48MP sensor on its main camera, allowing it to capture the b… [+7940 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Megan Henney",
+            "title": "August jobs report likely to point to slowing labor market - Fox Business",
+            "description": "The August jobs report, due Friday morning, is expected to show the labor market is finally slowing down due to higher interest rates and steep inflation.",
+            "url": "https://www.foxbusiness.com/economy/august-jobs-report-likely-point-slowing-labor-market",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/06/0/0/jobs-23.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-31T20:08:22Z",
+            "content": "All eyes will be on the August jobs report when it is released Friday morning as investors look for clues about the labor market's health in the face of higher interest rates and sticky inflation.\r\nT… [+3176 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Gabrielle Fonrouge",
+            "title": "Lululemon sees sales and profit jump 18%, boosts full-year guidance - CNBC",
+            "description": "Lululemon saw its sales and profit rise 18% during its most recent quarter and raised its full-year guidance.",
+            "url": "https://www.cnbc.com/2023/08/31/lululemon-lulu-earnings-q2-2023.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107250392-1685734370196-gettyimages-1495444866-img_1650_pxwvxup1.jpeg?v=1693512356&w=1920&h=1080",
+            "publishedAt": "2023-08-31T20:05:56Z",
+            "content": "Lululemon raised its full-year guidance Thursday after reporting an 18% jump in both sales and profit for its fiscal second quarter, beating Wall Street's estimates. \r\nThe athletic apparel retailer n… [+2556 chars]"
+        }
+    ]
+}
